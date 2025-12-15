@@ -1,2 +1,2 @@
 # BookStore-Application-Using-SpringBoot
-Basic CRUD application using Spring Boot
+ CRUD application using Spring Boot, MySQL, ThymeLeaf
